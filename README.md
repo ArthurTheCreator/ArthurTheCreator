@@ -1,15 +1,10 @@
 <h1 align="center">💫💻About me: Arthur Bomfim</h1>
 
 👨‍💻 Desenvolvedor Back-End | C# .NET | RESTful API
-
 🎓 Cursando Análise e Desenvolvimento de Sistemas
-
 🚀 Apaixonado por criar aplicações escaláveis e eficientes
-
 💼 Atualmente estagiando como Desenvolvedor Back-End
-
 🧑‍🎓 18 anos, sempre buscando aprender e evoluir na área de tecnologia
-
 📌 Sempre aprimorando minhas habilidades e explorando novas tecnologias!
 
 <h3 align="left">Languages and Tools:</h3>
