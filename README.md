@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫💻 About Me:
 👨‍💻 Desenvolvedor Back-End | C# .NET | RESTful API<br>🎓 Cursando Análise e Desenvolvimento de Sistemas<br>💼 Atualmente estagiando como Desenvolvedor Back-End<br>🧑‍🎓 18 anos, sempre buscando aprender e evoluir na área de tecnologia<br>📌 Sempre aprimorando minhas habilidades e explorando novas tecnologias!
 
 
