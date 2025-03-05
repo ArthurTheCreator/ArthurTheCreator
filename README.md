@@ -1,4 +1,5 @@
 <h1 align="center">💫💻About me: Arthur Bomfim</h1>
+Estudante de Front End<br>Estou aprendendo React e Typescript<br>Cursando Análise e Desenvolvimento de Sistemas <br>Tenho 18 anos e estou fazendo estágio
 
 👨‍💻 Desenvolvedor Back-End | C# .NET | RESTful API
 
