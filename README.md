@@ -11,4 +11,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArthurTheCreator&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/ArthurTheCreator/ArthurTheCreator/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ArthurTheCreator&repo=ArthurTheCreatoro&theme=react)](https://github.com/ArthurTheCreator/ArthurTheCreator)
